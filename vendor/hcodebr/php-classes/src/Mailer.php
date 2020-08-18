@@ -12,8 +12,8 @@ class Mailer{
 
 
 
-	const USERNAME = "praystorex@gmail.com";
-	const PASSWORD = "Mortalkombat12";
+	const USERNAME = "";
+	const PASSWORD = "";
 	const NAME_FROM = "Pray Store";
 
 
